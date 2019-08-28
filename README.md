@@ -1,6 +1,6 @@
 # Projeto de Sistemas Distribuidos
 
-Jogo: Quem sou eu?
+Jogo: Quem sou eu ?
 A ordem dos mestres será a ordem de chegada na sala. O primeiro será quem responde e os outros quem pergunta. Depois de acabar a rodada o próximo mestre será o próximo na fila da ordem de chegada.O mínimo de jogadores para início de uma rodada será 3 e o máximo será 5. Para um jogador ser considerado vencedor ele deverá igualar ou superar 100 pontos. Cada acerto contabilizará ao usuário 20 pontos.
 
 O mestre receberá uma palavra aleatória e os outros usuários perguntarão cada um na sua vez para o mestre. 
