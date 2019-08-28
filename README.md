@@ -1,1 +1,1 @@
-# Projeto-de-Sistemas-Distribu-dos
+# Projeto de Sistemas Distribuidos
